@@ -7,7 +7,6 @@
 Foi utilizado o site [Kabum](https://www.kabum.com.br/) para a realização desse teste com a simulação de compra de um **Cartucho de Tinta HP**.
 <br>
 </br>
-
  📌<b>Fluxo Apresentado</b>
 
  1- Entrar em um portal de comércio online ([Kabum](https://www.kabum.com.br/))
@@ -23,7 +22,6 @@ Foi utilizado o site [Kabum](https://www.kabum.com.br/) para a realização dess
 6- Validar se o produto foi enviado para o carrinho com sucesso.
 <br>
 </br>
-
  🚀<b>Tecnologias Utilizadas</b>
  
  - [Visual Code 1.60.2](https://code.visualstudio.com/download)
@@ -32,7 +30,6 @@ Foi utilizado o site [Kabum](https://www.kabum.com.br/) para a realização dess
  - [Behave 1.2.6](https://behave.readthedocs.io/en/stable/install.html)
 <br>
 </br> 
-
 📁<b>Como executar os testes</b>
   <br>
   - Clone o projeto do Github:
