@@ -1,7 +1,7 @@
   KabumTest ✔
 
  
- 💻Sobre
+ 💻<b>Sobre</b>
  
  Teste Automatizado para a realização do Desafio QA Jr, simulando desde o momento da procura de um produto até a inserção dele no carrinho de compras.
 Foi utilizado o site [Kabum](https://www.kabum.com.br/) para a realização desse teste com a simulação de compra de um **Cartucho de Tinta HP**.
