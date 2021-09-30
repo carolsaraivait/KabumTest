@@ -4,7 +4,7 @@
  💻Sobre
  
  Teste Automatizado para a realização do Desafio QA Jr, simulando desde o momento da procura de um produto até a inserção dele no carrinho de compras.
-Foi utilizado o site **Kabum** para a realização desse teste com a simulação de compra de um **Cartucho de Tinta HP**.
+Foi utilizado o site [Kabum](https://www.kabum.com.br/) para a realização desse teste com a simulação de compra de um **Cartucho de Tinta HP**.
 
  🚀Tecnologias Utilizadas
  
@@ -13,10 +13,16 @@ Foi utilizado o site **Kabum** para a realização desse teste com a simulação
  - [Selenium 3.141](https://www.selenium.dev/downloads/)
  - [Behave 1.2.6](https://behave.readthedocs.io/en/stable/install.html)
  
+
  
   📁Como executar os testes
   <br>
-  Executar no prompt de comandos os seguintes comandos abaixo para preparar o ambiente:
+  - Clone o projeto do Github:
+  ```bash
+  git clone https://github.com/carolsaraivait/KabumTest.git
+  ```
+
+  - Executar no prompt de comando os seguintes comandos abaixo para preparar o ambiente:
    ```bash
    python -m venv ./venv
 
@@ -25,7 +31,7 @@ python -m pip install --upgrade pip
 
 pip install  ipdb behave selenium
  ```
- Executar o seguinte comando para a realização do teste:
+ - Executar o seguinte comando para a realização do teste:
   ```bash
 behave
  
