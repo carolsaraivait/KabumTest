@@ -9,4 +9,4 @@ def after_step(context, step):
         spost_mortem(step.exc_traceback)
 
 def after_all(context):
-    ...#context.browser.quit()
+    context.browser.quit()
