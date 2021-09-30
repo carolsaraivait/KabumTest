@@ -1,6 +1,6 @@
 Feature: Search Kabum
     Scenario: Utilizar o buscador da Kabum
-        Given ir para a pagina da Kabum
+        Given que esteja na pagina
         When realizar busca de produto
             """
             {

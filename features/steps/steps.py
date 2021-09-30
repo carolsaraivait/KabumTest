@@ -4,7 +4,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from json import loads
 import time
 
-@given('ir para a pagina da Kabum')
+@given('que esteja na pagina')
 def go_to_page(context):
     context.browser.get('https://www.kabum.com.br/')
 
