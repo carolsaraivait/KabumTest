@@ -28,8 +28,7 @@ Foi utilizado o site [Kabum](https://www.kabum.com.br/) para a realização dess
  - [Python 3.9.7](https://www.python.org/downloads/)
  - [Selenium 3.141](https://www.selenium.dev/downloads/)
  - [Behave 1.2.6](https://behave.readthedocs.io/en/stable/install.html)
-<br>
-</br> 
+ 
 📁<b>Como executar os testes</b>
   <br>
   - Clone o projeto do Github:
