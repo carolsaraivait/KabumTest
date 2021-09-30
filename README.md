@@ -6,7 +6,7 @@
  Teste Automatizado para a realização do Desafio QA Jr, simulando desde o momento da procura de um produto até a inserção dele no carrinho de compras.
 Foi utilizado o site [Kabum](https://www.kabum.com.br/) para a realização desse teste com a simulação de compra de um **Cartucho de Tinta HP**.
 
- 🚀Tecnologias Utilizadas
+ 🚀<b>Tecnologias Utilizadas</b>
  
  - [Visual Code 1.60.2](https://code.visualstudio.com/download)
  - [Python 3.9.7](https://www.python.org/downloads/)
@@ -15,7 +15,7 @@ Foi utilizado o site [Kabum](https://www.kabum.com.br/) para a realização dess
  
 
  
-  📁Como executar os testes
+  📁<b>Como executar os testes</b>
   <br>
   - Clone o projeto do Github:
   ```bash
@@ -36,6 +36,6 @@ pip install  ipdb behave selenium
 behave
  
    ```
- - 👩‍🦰 Autora
+ - 👩‍🦰 <b>Autora</b>
    <br> [Carolina Saraiva](https://www.linkedin.com/in/carolina-saraiva-7998a8174/)</br>
    
